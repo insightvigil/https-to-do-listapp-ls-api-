@@ -10,7 +10,7 @@ A simple task manager app that stores your data even after you close the browser
 ### Applied API's 🧩
 - localStorage API
 
-You can check it out live [here](https://to-do-listapp-ls-api).
+You can check it out live [here](https://insightvigil.github.io/to-do-listapp-ls-api).
 
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
