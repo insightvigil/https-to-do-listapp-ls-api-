@@ -1,6 +1,6 @@
 ## To do ListApp 🚀
 
-A simple task manager app that stores your data even after you close the browser. 
+A simple task manager app that stores your data even after you close the browser. (Darkmode included)
 
 ### Applied technologies 🧑‍💻
 - HTML
