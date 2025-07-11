@@ -15,7 +15,7 @@ You can check it out live [here](https://to-do-listapp-ls-API).
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
 
-#### Project developed during_JavaScript: Manipulación del DOM_
+#### Project developed during _JavaScript: Manipulación del DOM_
 
 
 
